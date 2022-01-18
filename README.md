@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Run your own fake season of RuPaul's Drag Race! Queen data and images are from No Key No Shade: A RuPaul's Drag Race API(https://drag-race-api.readme.io/docs).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Co-created with James Correa.
